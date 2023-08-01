@@ -2,6 +2,7 @@
 
 import random
 number = random.randint(-10, 10)
+print(random)
 
 if number > 0:
      print("number is positive")
