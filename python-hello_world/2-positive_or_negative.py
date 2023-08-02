@@ -9,4 +9,8 @@ elif number == 0:
     print(str(number) +" " "is zero")
 elif number < 0: print(str(number) + " " "is negative" "\n")
 
+else:
+
+    print("number is negative")
+
 
