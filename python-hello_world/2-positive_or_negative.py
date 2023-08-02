@@ -7,10 +7,6 @@ if number > 0:
     print(str(number) + " " "is positive")
 elif number == 0:
     print(str(number) +" " "is zero")
-elif number < 0: print(str(number) + " " "is negative")
-     
+elif number < 0: print(str(number) + " " "is negative" "\n")
 
-"""else number < 0:
-    print("number is negative")
-    """
 
