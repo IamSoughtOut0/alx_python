@@ -7,10 +7,10 @@ if number > 0:
     print(str(number) + " " "is positive")
 elif number == 0:
     print(str(number) +" " "is zero")
-elif number < 0: print(str(number) + " " "is negative" "\n")
-
 else:
+    print(str(number) + " " "number is negative")
 
-    print("number is negative")
+
+
 
 
